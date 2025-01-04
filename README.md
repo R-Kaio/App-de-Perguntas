@@ -18,10 +18,10 @@ Este é um aplicativo Flutter de perguntas e respostas, projetado para testar se
 ## 📱 Capturas de Tela
 
 ### Tela de Perguntas
-[Adicione aqui uma imagem da tela de perguntas.]
+![Tela de Perguntas](assets/screenshots/tela-perguntas.png)
 
 ### Tela de Resultado
-[Adicione aqui uma imagem da tela de resultado.]
+![Tela de Resultado](assets/screenshots/tela-resultado.png)
 
 ## 📦 Instalação
 
