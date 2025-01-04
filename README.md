@@ -1,16 +1,31 @@
-# projeto_perguntas
+# PerguntaApp 🎓
 
-A new Flutter project.
+Este é um aplicativo Flutter de perguntas e respostas, projetado para testar seus conhecimentos enquanto você se diverte. O aplicativo apresenta perguntas de múltipla escolha, com um sistema de pontuação para avaliar seu desempenho.
 
-## Getting Started
+## 🛠️ Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Perguntas Dinâmicas:** Exibe perguntas personalizadas com múltiplas respostas.
+- **Sistema de Pontuação:** Calcula sua pontuação com base nas respostas corretas.
+- **Feedback ao Usuário:** Mensagens motivacionais de acordo com a pontuação final.
+- **Reinício do Questionário:** Permite que você recomece o quiz após concluí-lo.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **[Flutter](https://flutter.dev/):** Framework para desenvolvimento multiplataforma.
+- **Dart:** Linguagem de programação usada pelo Flutter.
+- **Material Design:** Para interfaces modernas e responsivas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Capturas de Tela
+
+### Tela de Perguntas
+[Adicione aqui uma imagem da tela de perguntas.]
+
+### Tela de Resultado
+[Adicione aqui uma imagem da tela de resultado.]
+
+## 📦 Instalação
+
+1. **Clone o Repositório**
+   ```bash
+   git clone https://github.com/SeuUsuario/PerguntaApp.git
+   cd PerguntaApp
