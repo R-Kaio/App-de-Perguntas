@@ -22,10 +22,3 @@ Este é um aplicativo Flutter de perguntas e respostas, projetado para testar se
 
 ### Tela de Resultado
 ![Tela de Resultado](assets/resultado.jpg)
-
-## 📦 Instalação
-
-1. **Clone o Repositório**
-   ```bash
-   git clone https://github.com/SeuUsuario/PerguntaApp.git
-   cd PerguntaApp
